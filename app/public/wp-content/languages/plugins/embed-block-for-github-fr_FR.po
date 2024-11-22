@@ -1,0 +1,108 @@
+# Translation of Plugins - Embed Block for GitHub - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Embed Block for GitHub - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-09 09:43:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Embed Block for GitHub - Stable (latest release)\n"
+
+#: repository-block.js:74
+msgid "Activate Dark Mode"
+msgstr "Activer le mode sombre"
+
+#: embed-block-for-github.php:105
+msgid "Error: Reposity not found. Please check your URL."
+msgstr "Erreur : dépôt introuvable. Veuillez vérifier votre URL."
+
+#: templates/repository.php:36
+msgid "%s Fork"
+msgid_plural "%s Forks"
+msgstr[0] "%s Fork"
+msgstr[1] "%s Forks"
+
+#: templates/repository.php:32
+msgid "%s Watcher"
+msgid_plural "%s Watchers"
+msgstr[0] "%s Observateur"
+msgstr[1] "%s Observateurs"
+
+#: templates/repository.php:28
+msgid "%s Subscriber"
+msgid_plural "%s Subscribers"
+msgstr[0] "%s Inscrit"
+msgstr[1] "%s Inscrits"
+
+#: templates/repository.php:18
+msgid "by"
+msgstr "par"
+
+#: repository-block.js:65
+msgid "Enter the URL of the GitHub Repository"
+msgstr "Saisir l’URL du dépôt GitHub"
+
+#: repository-block.js:58
+msgid "GitHub Repository"
+msgstr "Dépôt GitHub"
+
+#: repository-block.js:29
+msgid "repo"
+msgstr "dépôt"
+
+#: repository-block.js:29
+msgid "repository"
+msgstr "dépôt"
+
+#: repository-block.js:29
+msgid "github"
+msgstr "github"
+
+#: repository-block.js:27
+msgid "A block to embed a GitHub Repository."
+msgstr "Un bloc pour embarquer un dépôt GitHub."
+
+#: repository-block.js:26
+msgid "GitHub Repo"
+msgstr "Dépôt GitHub"
+
+#: embed-block-for-github.php:119 embed-block-for-github.php:170
+#: embed-block-for-github.php:173
+msgid "Use the Sidebar to add the URL of the GitHub Repository to embed."
+msgstr "Utilisez la colonne latérale pour ajouter l’URL du dépôt GitHub à embarquer."
+
+#: embed-block-for-github.php:165
+msgid "No information available. Please check your URL."
+msgstr "Aucune information disponible. Veuillez vérifier votre URL."
+
+#: templates/repository.php:39
+msgid "Check out this repository on GitHub.com"
+msgstr "Consulter ce dépôt sur GitHub.com"
+
+#: templates/repository.php:14 templates/repository.php:20
+#: templates/repository.php:40
+msgid "this link opens in a new window"
+msgstr "ce lien s’ouvre dans une nouvelle fenêtre"
+
+#. Author URI of the plugin
+msgid "https://jeanbaptisteaudras.com"
+msgstr "https://jeanbaptisteaudras.com"
+
+#. Author of the plugin
+msgid "audrasjb"
+msgstr "audrasjb"
+
+#. Description of the plugin
+msgid "Easily embed GitHub repositories in Gutenberg Editor."
+msgstr "Embarquez facilement des dépôts GitHub dans l’éditeur Gutenberg."
+
+#. Plugin URI of the plugin
+msgid "https://jeanbaptisteaudras.com/embed-block-for-github-gutenberg-wordpress/"
+msgstr "https://jeanbaptisteaudras.com/embed-block-for-github-gutenberg-wordpress/"
+
+#. Plugin Name of the plugin
+msgid "Embed Block for GitHub"
+msgstr "Embed Block for GitHub"
